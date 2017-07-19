@@ -1,0 +1,1 @@
+# BIG-DATA-HADOOP-SPARK-TRAINING_Hive_Operations_Assignment-6.3
